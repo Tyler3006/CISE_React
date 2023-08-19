@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aligle is about Values and Principles.
+        Aligle is about Values and Principles.
         </p>
         <a
           className="App-link"
-          href="https://aut.ac.nz"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+//
